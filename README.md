@@ -1,6 +1,6 @@
 <h1>Pizza Sales Analytics</h1>
 <p>Este proyecto que consiste en dos (2) Dashboards en Power BI y Excel, es totalmente hecho por mí, es decir que no es un proyecto guiado como el de Semana Power BI Imparable
-que recreé los Dashboards que otra persona hizo, no, este me di a la tarea de hacerlo todo yo sola. Lo primero que hice fue buscar un dataset en Kaggle y el turno fue para "Pizza Sales Dataset" del usuario Saher Muhamad, este es el dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset</p>
+que recreé los Dashboards que otra persona hizo, no, este me di a la tarea de hacerlo todo yo sola. Lo primero que hice fue buscar un dataset en Kaggle y el turno fue para "Pizza Sales Dataset" del usuario Saher Muhamed, este es el dataset: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset</p>
 <p>En palabras del mismo, la información que contiene dicho dataset es: "Este conjunto de datos contiene información detallada sobre los pedidos de pizza, incluidos detalles sobre las variantes de pizza, cantidades, precios, fechas, horas y detalles de categorización:"</p>
 <ul>
     <li><strong>pizza_id:</strong> un identificador único asignado a cada variante de pizza distinta disponible para realizar pedidos.</li>
